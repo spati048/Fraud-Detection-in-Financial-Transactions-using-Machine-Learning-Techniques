@@ -53,11 +53,6 @@ Our best model, **Logistic Regression**, achieved an **AUC of 0.92** and helped 
   - Reducing false positives → optimized thresholds.  
   - Real-time constraints → algorithm tuning for lower latency.  
 
-## Future Work  
-- Add new features (geolocation, IP tracking).  
-- Explore **deep learning (Autoencoders, LSTMs)**.  
-- Real-time deployment in financial systems.  
-
 ## References  
 - Microsoft Learn. (2024). [Use R to detect fraud](https://learn.microsoft.com/en-us/fabric/data-science/r-fraud-detection)  
 - ProjectPro. (2024). [Credit Card Fraud Detection Project](https://www.projectpro.io/article/credit-card-fraud-detection-project-with-source-code-in-python/568)  
